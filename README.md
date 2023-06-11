@@ -2,6 +2,7 @@
 This project is for how much average time take by a delivery for order food.
 
 Size of training set: 45,593 records
+
 FEATURES:
 - Delivery_person_ID: id of a delivery person
 - Delivery_person_Age: delivery person's age
