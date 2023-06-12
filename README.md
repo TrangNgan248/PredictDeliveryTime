@@ -34,7 +34,7 @@ FEATURES:
 - Features ranking
 
 ## Requirements
-python 3.9
+python >= 3.3
 ```
 pip install pandas
 ```
