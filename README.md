@@ -35,10 +35,10 @@ FEATURES:
 
 # Requirements
 python 3.9
-pip install pandas
-pip install numpy
-pip install scikit-learn 
+"pip install pandas"
+"pip install numpy"
+"pip install scikit-learn"
 or
-pip install -U scikit-learn (macOS)
+"pip install -U scikit-learn" (macOS)
 
 
