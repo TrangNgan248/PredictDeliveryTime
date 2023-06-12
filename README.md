@@ -27,18 +27,27 @@ FEATURES:
 **target value **
 - Time_taken: how much time taken
 
-# Table of contents
+## Table of contents
 - Preprocessing
 - Build data
 - Build model using Gradient Boosting
 - Features ranking
 
-# Requirements
+## Requirements
 python 3.9
-"pip install pandas"
-"pip install numpy"
-"pip install scikit-learn"
+```
+pip install pandas
+```
+```
+pip install numpy
+```
+```
+pip install scikit-learn
+```
 or
-"pip install -U scikit-learn" (macOS)
+```
+pip install -U scikit-learn
+```
+(macOS)
 
 
